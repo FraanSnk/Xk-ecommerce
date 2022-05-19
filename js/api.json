@@ -1,0 +1,28 @@
+{
+  "productos": [
+   {
+     "precio": 3500,
+     "id": 1,
+     "title": "Mpow",
+     "thumbnailUrl": "../img/productos/71tuneVA4hL 1.png"
+   },
+   {
+     "precio": 5700,
+     "id": 2,
+     "title": "Sx",
+     "thumbnailUrl": "../img/productos/190198828613-1-sx-removebg-preview 1.png"
+   },
+   {
+     "precio": 2000,
+     "id": 3,
+     "title": "Bluetooth",
+     "thumbnailUrl": "../img/productos/bluetooth.png"
+   },
+   {
+     "precio": 3500,
+     "id": 4,
+     "title": "Bose",
+     "thumbnailUrl": "../img/second.png"
+   }
+ ]
+}
